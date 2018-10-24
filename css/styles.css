@@ -1,0 +1,20 @@
+.navbar {
+    background: rgba(0,0,0,0.8) !important;
+}
+#home-section {
+    background: url(../img/daniela-cuevas-21225.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.aw-vertical-align {
+    background: rgba(0,0,0,0.3);
+    height: 100vh;
+}
+.aw-heading {
+    font-weight: 900;
+    font-size: 2.125rem;
+    letter-spacing: 0.10rem;
+}
+.aw-ending {
+    color: red;
+}
