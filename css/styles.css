@@ -18,3 +18,23 @@
 .aw-ending {
     color: red;
 }
+
+#btnRemindMe {
+    border: 2px solid #f8f9fa;
+}
+#btnAboutUs {
+    border: 2px solid red;
+}
+.btn-light:hover {
+    background: transparent;
+    color: #f8f9fa;
+}
+.btn-danger {
+    background: red;
+}
+.btn-danger:hover {
+    background: transparent;
+}
+.aw-about {
+    width: 18rem;
+}
