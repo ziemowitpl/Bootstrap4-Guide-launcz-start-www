@@ -35,6 +35,18 @@
 .btn-danger:hover {
     background: transparent;
 }
+
+.btn-danger-override {
+    letter-spacing: 0.1rem;
+}
+.btn-danger-override:hover {
+    color:black;
+}
+/* modal dialog center minus 60px */
+.modal-dialog {
+    min-height: calc(100vh - 60px);
+    overflow: auto;
+}
 .aw-about {
     width: 18rem;
 }
