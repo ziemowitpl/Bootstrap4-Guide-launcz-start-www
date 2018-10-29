@@ -50,3 +50,22 @@
 .aw-about {
     width: 18rem;
 }
+
+@media (min-width: 576px) {
+    .navbar {
+        background: transparent !important;
+    }
+    .aw-heading {
+        font-weight: 900;
+        font-size: 3.75rem;
+    }
+    .aw-countdown {
+        width: 31.25rem;
+    }
+    .aw-padding {
+        padding: 0.75rem 2.5rem;
+    }
+    .aw-about {
+        width: 30rem;
+    }
+}
